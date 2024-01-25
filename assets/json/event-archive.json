@@ -6,7 +6,7 @@
     "date": "10/24/2023",
     "description": "This is our first general meeting",
     "category": "General Meetings",
-    "location": "Room ####",
+    "location": "Building 3, Room 2636",
     "images": ["/assets/img/first_meeting.jpeg"]
   },
   {
@@ -16,7 +16,7 @@
     "date": "10/31/2023",
     "description": "This is our second meeting where we celebrated Halloween and play a fun game to connect with peers",
     "category": "General Meetings",
-    "location": "Room ####",
+    "location": "Building 3, Room 2636",
     "images": [
       "/assets/img/first_meeting.jpeg",
       "/assets/img/halloween_winner.jpeg"
@@ -29,7 +29,7 @@
     "date": "11/07/2023",
     "description": "This is our third meeting where we organized a fun coding competition using Python",
     "category": "Hackathons",
-    "location": "Room ####",
+    "location": "Building 3, Room 2636",
     "images": [
       "/assets/img/first_meeting.jpeg",
       "/assets/img/python_winners.jpeg"
@@ -42,7 +42,7 @@
     "date": "11/14/2023",
     "description": "This is our fourth meeting where we introduce Panda library and its powerful benefits in data science",
     "category": "Tech Workshops",
-    "location": "Room ####",
+    "location": "Building 3, Room 2636",
     "images": ["/assets/img/first_meeting.jpeg"]
   },
   {
@@ -52,7 +52,7 @@
     "date": "11/21/2023",
     "description": "This is our fifth meeting where we hosted a mini datathon competition using Pandas that we have learned in the last meeting",
     "category": "Datathons",
-    "location": "Room ####",
+    "location": "Building 3, Room 2636",
     "images": ["/assets/img/first_meeting.jpeg"]
   },
   {
@@ -62,7 +62,7 @@
     "date": "11/28/2023",
     "description": "This is our sixth meeting where we reviewed the last mini-datathon and revealed the solutions",
     "category": "General Meetings",
-    "location": "Room ####",
+    "location": "Building 3, Room 2636",
     "images": ["/assets/img/first_meeting.jpeg"]
   },
   {

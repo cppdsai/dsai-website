@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "targetId": "event1",
+    "name": "First General Meeting",
+    "date": "01/30/2024",
+    "description": "This is our first general meeting for Spring 2024. Join us for checking out future events, networking, and more!",
+    "category": "General Meetings",
+    "location": "Building 3, Room 2636",
+    "time": "12pm - 1pm",
+    "images": ["/assets/img/week1-spring2024/DSAI_First_Meeting.png"]
+  }
+]
