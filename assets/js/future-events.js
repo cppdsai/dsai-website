@@ -15,12 +15,12 @@ document.addEventListener("DOMContentLoaded", function () {
               index === 0
                 ? `
                 <div class="carousel-item active">
-                  <img src=${image} class="d-block w-100" height="350"/>
+                  <img src=${image} class="d-block w-100"/>
                 </div>
               `
                 : `
                 <div class="carousel-item">
-                  <img src=${image} class="d-block w-100" height="350"/>
+                  <img src=${image} class="d-block w-100"/>
                 </div>
               `;
           });
