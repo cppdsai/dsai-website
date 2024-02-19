@@ -5,7 +5,7 @@
     "name": "First General Meeting",
     "date": "Tue, 01/30/2024",
     "description": "This is our first general meeting for Spring 2024. Join us for checking out future events, networking, and more!",
-    "category": "General Meetings",
+    "category": "General Meeting",
     "location": "Building 3, Room 2636",
     "time": "12pm - 1pm",
     "images": ["/assets/img/week1-spring2024/DSAI_First_Meeting.png"]
@@ -16,9 +16,20 @@
     "name": "Ice-Breaker Event",
     "date": "Tue, 02/06/2024",
     "description": "This is our second general meeting for Spring 2024. Join us for fun games and connections with like-minded peers",
-    "category": "General Meetings",
+    "category": "General Meeting",
     "location": "Building 3, Room 2636",
     "time": "12pm - 1pm",
     "images": ["/assets/img/week2-spring2024/ice_breaker.png"]
+  },
+  {
+    "id": 3,
+    "targetId": "event3",
+    "name": "Tackle the Titanic Data Set",
+    "date": "Thu, 02/15/2024",
+    "description": "Join us for a special event where we dive into the Titanic dataset! We'll split into groups, explore Kaggle, and guide you through the tools needed for data exploration.",
+    "category": "Tech Workshop",
+    "location": "Building 3, Room 2636",
+    "time": "12pm - 1pm",
+    "images": ["/assets/img/week3-spring2024/tackle_the_titanic.png"]
   }
 ]
