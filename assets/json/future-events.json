@@ -31,5 +31,16 @@
     "location": "Building 3, Room 2636",
     "time": "12pm - 1pm",
     "images": ["/assets/img/week3-spring2024/tackle_the_titanic.png"]
+  },
+  {
+    "id": 4,
+    "targetId": "event4",
+    "name": "Tackle the Titanic Data Set (part 2)",
+    "date": "Thu, 02/22/2024",
+    "description": "Join us again for the continuation of previous meeting where we explore and analyze the Titanic dataset to boost our Python skills. This meeting will demonstrate data visualization.",
+    "category": "Tech Workshop",
+    "location": "Building 3, Room 2636",
+    "time": "12pm - 1pm",
+    "images": ["/assets/img/week4-spring2024/titanic_part2.png"]
   }
 ]
