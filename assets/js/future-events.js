@@ -35,11 +35,11 @@ document.addEventListener("DOMContentLoaded", function () {
                       data-bs-parent="#accordionContainer"
                     >
                       <div class="accordion-body">
-                        <p class="card-text"><span class="fw-bold">Event Name:</span> ${val.name}</p>
-                        <p class="card-text"><span class="fw-bold">Date:</span> ${val.date}</p>
-                        <p class="card-text"><span class="fw-bold">Location:</span> ${val.location}</p>
-                        <p class="card-text"><span class="fw-bold">Time:</span> ${val.time}</p>
-                        <p class="card-text"><span class="fw-bold">Description:</span> ${val.description}</p>
+                        <p class="card-text fw-bold fs-4">${val.name}</p>
+                        <p class="card-text"><span class="fw-bold">🗓️ Date:</span> ${val.date}</p>
+                        <p class="card-text"><span class="fw-bold">📍 Location:</span> ${val.location}</p>
+                        <p class="card-text"><span class="fw-bold">🕒 Time:</span> ${val.time}</p>
+                        <p class="card-text">${val.description}</p>
                         
                       </div>
                     </div>
