@@ -42,5 +42,16 @@
     "location": "Building 3, Room 2636",
     "time": "12pm - 1pm",
     "images": ["/assets/img/week4-spring2024/titanic_part2.png"]
+  },
+  {
+    "id": 5,
+    "targetId": "event5",
+    "name": "Social Meet-up",
+    "date": "Thu, 02/29/2024",
+    "description": "Join us at the game room to have fun, ask questions, play games, and hang out with fellow members. Snacks will be provided!",
+    "category": "Social Event",
+    "location": "Games Room @ Bronco Student Center (Building 35, Room 1110)",
+    "time": "12pm - 1pm",
+    "images": ["/assets/img/week5-spring2024/social-event-02-29.png"]
   }
 ]
