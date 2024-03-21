@@ -24,7 +24,7 @@
   {
     "id": 3,
     "targetId": "event3",
-    "name": "Tackle the Titanic Data Set",
+    "name": "Tackle the Titanic Data Set (Part 1)",
     "date": "Thu, 02/15/2024",
     "description": "Join us for a special event where we dive into the Titanic dataset! We'll split into groups, explore Kaggle, and guide you through the tools needed for data exploration.",
     "category": "Tech Workshop",
@@ -35,7 +35,7 @@
   {
     "id": 4,
     "targetId": "event4",
-    "name": "Tackle the Titanic Data Set (part 2)",
+    "name": "Tackle the Titanic Data Set (Part 2)",
     "date": "Thu, 02/22/2024",
     "description": "Join us again for the continuation of previous meeting where we explore and analyze the Titanic dataset to boost our Python skills. This meeting will demonstrate data visualization.",
     "category": "Tech Workshop",
@@ -53,5 +53,38 @@
     "location": "Games Room @ Bronco Student Center (Building 35, Room 1110)",
     "time": "12pm - 1pm",
     "images": ["/assets/img/week5-spring2024/social-event-02-29.png"]
+  },
+  {
+    "id": 6,
+    "targetId": "event6",
+    "name": "Data Analytics Competition",
+    "date": "Thu, 03/07/2024",
+    "description": "Team up with peers, answer questions, and compete with other teams to tackle various problems in Data Analytics. There are prizes for the first place winner!",
+    "category": "Competition/Datathon",
+    "location": "Building 3, Room 2636",
+    "time": "12pm - 1pm",
+    "images": ["/assets/img/week6-spring2024/data_analytics_comp.png"]
+  },
+  {
+    "id": 7,
+    "targetId": "event7",
+    "name": "Webinar: Masters Program",
+    "date": "Thu, 03/14/2024",
+    "description": "Interested in graduate degree in Data Science? If you are, check out this important meeting where UC Berkeley is hosting a webinar presenting on their data science masters program!",
+    "category": "General Meeting",
+    "location": "Building 3, Room 2636",
+    "time": "12pm - 1pm",
+    "images": ["/assets/img/week7-spring2024/webinar_master_program.png"]
+  },
+  {
+    "id": 8,
+    "targetId": "event8",
+    "name": "Tackle the Titanic Data Set (Part 3)",
+    "date": "Thu, 03/21/2024",
+    "description": "Join us again for the continuation of previous meeting about tackling the Titanic dataset. This time, we will primarily focus on the machine learning portion of analysis to build a ML model.",
+    "category": "Tech Workshop",
+    "location": "Building 3, Room 2636",
+    "time": "12pm - 1pm",
+    "images": ["/assets/img/week8-spring2024/Titanic_Part_3_Final.png"]
   }
 ]
