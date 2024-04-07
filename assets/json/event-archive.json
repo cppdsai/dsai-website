@@ -4,8 +4,9 @@
     "targetId": "event1",
     "name": "First General Meeting",
     "date": "10/24/2023",
+    "time": "12pm - 1pm",
     "description": "This is our first general meeting",
-    "category": "General Meetings",
+    "category": "General Meeting",
     "location": "Building 3, Room 2636",
     "images": ["/assets/img/first_meeting.jpeg"]
   },
@@ -14,8 +15,9 @@
     "targetId": "event2",
     "name": "Halloween Icebreaker",
     "date": "10/31/2023",
+    "time": "12pm - 1pm",
     "description": "This is our second meeting where we celebrated Halloween and play a fun game to connect with peers",
-    "category": "General Meetings",
+    "category": "General Meeting",
     "location": "Building 3, Room 2636",
     "images": [
       "/assets/img/first_meeting.jpeg",
@@ -27,8 +29,9 @@
     "targetId": "event3",
     "name": "Python Competition",
     "date": "11/07/2023",
+    "time": "12pm - 1pm",
     "description": "This is our third meeting where we organized a fun coding competition using Python",
-    "category": "Hackathons",
+    "category": "Hackathon",
     "location": "Building 3, Room 2636",
     "images": [
       "/assets/img/first_meeting.jpeg",
@@ -40,8 +43,9 @@
     "targetId": "event4",
     "name": "Pandas Workshop",
     "date": "11/14/2023",
+    "time": "12pm - 1pm",
     "description": "This is our fourth meeting where we introduce Panda library and its powerful benefits in data science",
-    "category": "Tech Workshops",
+    "category": "Tech Workshop",
     "location": "Building 3, Room 2636",
     "images": ["/assets/img/first_meeting.jpeg"]
   },
@@ -50,8 +54,9 @@
     "targetId": "event5",
     "name": "Mini-Datathon",
     "date": "11/21/2023",
+    "time": "12pm - 1pm",
     "description": "This is our fifth meeting where we hosted a mini datathon competition using Pandas that we have learned in the last meeting",
-    "category": "Datathons",
+    "category": "Datathon",
     "location": "Building 3, Room 2636",
     "images": ["/assets/img/first_meeting.jpeg"]
   },
@@ -60,8 +65,9 @@
     "targetId": "event6",
     "name": "Mini-Datathon Recap",
     "date": "11/28/2023",
+    "time": "12pm - 1pm",
     "description": "This is our sixth meeting where we reviewed the last mini-datathon and revealed the solutions",
-    "category": "General Meetings",
+    "category": "General Meeting",
     "location": "Building 3, Room 2636",
     "images": ["/assets/img/first_meeting.jpeg"]
   },
@@ -70,11 +76,12 @@
     "targetId": "event7",
     "name": "Spo-Cha Social",
     "date": "12/01/2023",
+    "time": "TBD",
     "description": "A social event where we got together to play challenging games and chat before the upcoming finals",
-    "category": "Social Events",
+    "category": "Social Event",
     "location": "Spo-Cha",
     "images": [
-      "/assets/img/spo-cha/dogeball_group_photo.jpg",
+      "/assets/img/spo-cha/dogeball_group_photo_resized.jpg",
       "/assets/img/spo-cha/dodgeball_team1.jpg",
       "/assets/img/spo-cha/dodgeball_team2.jpg",
       "/assets/img/spo-cha/group_ninjaTurtle.jpg",
@@ -82,16 +89,5 @@
       "/assets/img/spo-cha/IMG_2610.jpg",
       "/assets/img/spo-cha/IMG_2616.jpg"
     ]
-  },
-  {
-    "id": 8,
-    "targetId": "event8",
-    "name": "First General Meeting",
-    "date": "Tue, 01/30/2024",
-    "description": "This is our first general meeting for Spring 2024. Join us for checking out future events, networking, and more!",
-    "category": "General Meetings",
-    "location": "Building 3, Room 2636",
-    "time": "12pm - 1pm",
-    "images": ["/assets/img/week1-spring2024/DSAI_First_Meeting.png"]
   }
 ]

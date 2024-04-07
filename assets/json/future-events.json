@@ -5,7 +5,7 @@
     "name": "First General Meeting",
     "date": "Tue, 01/30/2024",
     "description": "This is our first general meeting for Spring 2024. Join us for checking out future events, networking, and more!",
-    "category": "General Meetings",
+    "category": "General Meeting",
     "location": "Building 3, Room 2636",
     "time": "12pm - 1pm",
     "images": ["/assets/img/week1-spring2024/DSAI_First_Meeting.png"]
@@ -16,9 +16,75 @@
     "name": "Ice-Breaker Event",
     "date": "Tue, 02/06/2024",
     "description": "This is our second general meeting for Spring 2024. Join us for fun games and connections with like-minded peers",
-    "category": "General Meetings",
+    "category": "General Meeting",
     "location": "Building 3, Room 2636",
     "time": "12pm - 1pm",
     "images": ["/assets/img/week2-spring2024/ice_breaker.png"]
+  },
+  {
+    "id": 3,
+    "targetId": "event3",
+    "name": "Tackle the Titanic Data Set (Part 1)",
+    "date": "Thu, 02/15/2024",
+    "description": "Join us for a special event where we dive into the Titanic dataset! We'll split into groups, explore Kaggle, and guide you through the tools needed for data exploration.",
+    "category": "Tech Workshop",
+    "location": "Building 3, Room 2636",
+    "time": "12pm - 1pm",
+    "images": ["/assets/img/week3-spring2024/tackle_the_titanic.png"]
+  },
+  {
+    "id": 4,
+    "targetId": "event4",
+    "name": "Tackle the Titanic Data Set (Part 2)",
+    "date": "Thu, 02/22/2024",
+    "description": "Join us again for the continuation of previous meeting where we explore and analyze the Titanic dataset to boost our Python skills. This meeting will demonstrate data visualization.",
+    "category": "Tech Workshop",
+    "location": "Building 3, Room 2636",
+    "time": "12pm - 1pm",
+    "images": ["/assets/img/week4-spring2024/titanic_part2.png"]
+  },
+  {
+    "id": 5,
+    "targetId": "event5",
+    "name": "Social Meet-up",
+    "date": "Thu, 02/29/2024",
+    "description": "Join us at the game room to have fun, ask questions, play games, and hang out with fellow members. Snacks will be provided!",
+    "category": "Social Event",
+    "location": "Games Room @ Bronco Student Center (Building 35, Room 1110)",
+    "time": "12pm - 1pm",
+    "images": ["/assets/img/week5-spring2024/social-event-02-29.png"]
+  },
+  {
+    "id": 6,
+    "targetId": "event6",
+    "name": "Data Analytics Competition",
+    "date": "Thu, 03/07/2024",
+    "description": "Team up with peers, answer questions, and compete with other teams to tackle various problems in Data Analytics. There are prizes for the first place winner!",
+    "category": "Competition/Datathon",
+    "location": "Building 3, Room 2636",
+    "time": "12pm - 1pm",
+    "images": ["/assets/img/week6-spring2024/data_analytics_comp.png"]
+  },
+  {
+    "id": 7,
+    "targetId": "event7",
+    "name": "Webinar: Masters Program",
+    "date": "Thu, 03/14/2024",
+    "description": "Interested in graduate degree in Data Science? If you are, check out this important meeting where UC Berkeley is hosting a webinar presenting on their data science masters program!",
+    "category": "General Meeting",
+    "location": "Building 3, Room 2636",
+    "time": "12pm - 1pm",
+    "images": ["/assets/img/week7-spring2024/webinar_master_program.png"]
+  },
+  {
+    "id": 8,
+    "targetId": "event8",
+    "name": "Tackle the Titanic Data Set (Part 3)",
+    "date": "Thu, 03/21/2024",
+    "description": "Join us again for the continuation of previous meeting about tackling the Titanic dataset. This time, we will primarily focus on the machine learning portion of analysis to build a ML model.",
+    "category": "Tech Workshop",
+    "location": "Building 3, Room 2636",
+    "time": "12pm - 1pm",
+    "images": ["/assets/img/week8-spring2024/Titanic_Part_3_Final.png"]
   }
 ]
